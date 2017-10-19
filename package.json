@@ -101,8 +101,8 @@
     "protect": "snyk protect",
     "prepare": "npm run protect",
     "prepublishOnly": "npm run test && npm run build",
-    "snyk-protect": "snyk protect",
-    "prepublish": "npm run snyk-protect"
+    "__snyk-protect": "snyk protect",
+    "__prepublish": "npm run snyk-protect"
   },
   "babel": {
     "presets": [
