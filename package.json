@@ -53,7 +53,7 @@
     "express": "^4.15.5",
     "express-easy-zip": "^1.1.4",
     "extract-zip": "^1.6.5",
-    "filehound": "^1.16.2",
+    "filehound": "^1.17.4",
     "fs-extra": "^4.0.2",
     "h5o": "^0.11.3",
     "marko": "^4.4.26",
